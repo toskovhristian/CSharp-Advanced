@@ -1,2 +1,2 @@
 # CSharp-Advanced
-Problems solved during my advanced learning
+These are the problems that I have solved during my C# Advanced course at Softuni.
